@@ -98,6 +98,20 @@ code1.txt - valid code
 
 ![code1Test](https://user-images.githubusercontent.com/54324630/202879428-cc162586-0662-43a3-8eb0-7c74d8373d07.PNG)
 
+code2.txt - valid code
+
+![code2Test](https://user-images.githubusercontent.com/54324630/202879552-d42073a2-58b1-4138-9cfd-8c2d9baa47e3.PNG)
+
+code3.txt - lexical errors
+
+![code3Test](https://user-images.githubusercontent.com/54324630/202879737-d4225c8e-6919-4c41-a580-c31ebab356ba.PNG)
+
+line 2 - "numb" is not a keyword and starts with a letter so it will be treated as a identifier. "numb" does not match the criteria of a valid identifier, causing an error. <br/>
+line 3 - "<--" is an unknown token and cannot be treated as a identifier or integer literal, causing an error. <br/>
+line 4 - "true" is not a valid boolean_literal. A valid boolean_literal starts with a capital letter (True). <br/>
+line 5 - "asdf" is not a valid identifier, causing an error. <br/>
+line 7 - "stoop" is not the valid stop keyword. Will be treated as an identifier but does not match that criteria, causing an error. <br/>
+
 # h. LR Trace
 
 ![trace2p1](https://user-images.githubusercontent.com/54324630/202878245-bec3c9bf-ff0e-4e5d-a292-d17508acd74c.PNG)
