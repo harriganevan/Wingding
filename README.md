@@ -16,14 +16,14 @@ Assignment: <- <br/>
 Integer Literals: [1-9][0-9]*\_(B|S|I|L) <br/>
 Identifiers: [a-zA-Z_][a-zA-Z_][a-zA-Z_][a-zA-Z_][a-zA-Z_][a-zA-Z_][a-zA-Z_]?[a-zA-Z_]? <br/>
 loop: O <br/>
-if: ? <br/>
-else: | <br/>
-and: & <br/>
-or: || <br/>
-seperate statements: ; <br/>
-begin program: start <br/>
-end program: stop <br/>
-data type declaration: num <br/>
+If: ? <br/>
+Else: | <br/>
+And: & <br/>
+Or: || <br/>
+Seperate statements: ; <br/>
+Begin program: start <br/>
+End program: stop <br/>
+Data type declaration: num <br/>
 
 # b. Production Rules
 \<program> -> start \<stmt_list> stop <br/>
