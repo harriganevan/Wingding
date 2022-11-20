@@ -29,7 +29,7 @@ Data type declaration: num <br/>
 \<program> -> start \<stmt_list> stop <br/>
 \<stmt_list> -> \<stmt>';'{\<stmt>';'} <br/>
 \<stmt> -> \<declare> | \<if> | \<loop> | \<assign> <br/>
-\<declare> -> 'num' 'id' \<br/>
+\<declare> -> 'num' 'id' <br/>
 \<assign> -> 'id' '<-' \<expr> <br/>
 \<if> -> '?' \<bool_expr> '{' \<stmt_list> '}' ['|' '{' \<stmt_list> '}'] <br/>
 \<loop> -> 'O' \<bool_expr> '{' \<stmt_list> '}' <br/>
