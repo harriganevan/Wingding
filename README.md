@@ -94,6 +94,10 @@ see code in src
 
 see files in testCode folder
 
+code1.txt - valid code
+
+![code1Test](https://user-images.githubusercontent.com/54324630/202879428-cc162586-0662-43a3-8eb0-7c74d8373d07.PNG)
+
 # h. LR Trace
 
 ![trace2p1](https://user-images.githubusercontent.com/54324630/202878245-bec3c9bf-ff0e-4e5d-a292-d17508acd74c.PNG)
