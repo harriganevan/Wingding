@@ -18,6 +18,8 @@ Identifiers: [a-zA-Z_][a-zA-Z_][a-zA-Z_][a-zA-Z_][a-zA-Z_][a-zA-Z_][a-zA-Z_]?[a-
 loop: O <br/>
 if: ? <br/>
 else: | <br/>
+and: & <br/>
+or: || <br/>
 seperate statements: ; <br/>
 begin program: start <br/>
 end program: stop <br/>
