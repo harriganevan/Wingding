@@ -94,15 +94,15 @@ see code in src
 
 see files in testCode folder
 
-code1.txt - valid code
+### code1.txt - valid code
 
 ![code1Test](https://user-images.githubusercontent.com/54324630/202879428-cc162586-0662-43a3-8eb0-7c74d8373d07.PNG)
 
-code2.txt - valid code
+### code2.txt - valid code
 
 ![code2Test](https://user-images.githubusercontent.com/54324630/202879552-d42073a2-58b1-4138-9cfd-8c2d9baa47e3.PNG)
 
-code3.txt - lexical errors
+### code3.txt - lexical errors
 
 ![code3Test](https://user-images.githubusercontent.com/54324630/202879737-d4225c8e-6919-4c41-a580-c31ebab356ba.PNG)
 
@@ -112,7 +112,7 @@ line 4 - "true" is not a valid boolean_literal. A valid boolean_literal starts w
 line 5 - "asdf" is not a valid identifier, causing an error. <br/>
 line 7 - "stoop" is not the valid stop keyword. Will be treated as an identifier but does not match that criteria, causing an error. <br/>
 
-code4.txt - syntax errors
+### code4.txt - syntax errors
 
 ![code4Test](https://user-images.githubusercontent.com/54324630/202880343-55a5ab52-13b3-4a52-9f02-40667804c029.PNG)
 
