@@ -1,0 +1,7 @@
+start
+	numb banana ;
+	banana <-- 12_B ;
+	? true {
+		num asdf ;
+	} ;
+stoop
