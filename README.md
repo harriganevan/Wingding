@@ -138,5 +138,14 @@ Accepted Trace (No Errors)
 
 Accepted Trace (No Errors)
  
-                         
-                        
+### start num id ; id = int_lit ; stop
+  
+![traceError1](https://user-images.githubusercontent.com/54324630/202880987-09bbd328-f337-4a72-a289-8c0c0fba088e.PNG)
+  
+Error on Trace (using "=" instead of "<-")
+  
+### start ? bool_lit { ; stop
+  
+![traceError1](https://user-images.githubusercontent.com/54324630/202881106-d936f2d0-1c07-440b-8b6e-08a5a897c84b.PNG)
+
+Error on Trace (unclosed selection statement)            
