@@ -148,6 +148,6 @@ Error on Trace (using "=" instead of "<-")
   
 ### start ? bool_lit { ; stop
   
-![traceError1](https://user-images.githubusercontent.com/54324630/202881106-d936f2d0-1c07-440b-8b6e-08a5a897c84b.PNG)
+![traceError2](https://user-images.githubusercontent.com/54324630/202881730-dd3e7271-784e-41d4-8b8b-fc6c3dbfdef5.PNG)
 
 Error on Trace (unclosed selection statement)            
