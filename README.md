@@ -88,7 +88,7 @@ Grammar rules produce a non-ambiguous grammar
 
 # e-f. Lexical and Syntax Analysis
 
-see code
+see code in src
 
 # g. Test Code
 
