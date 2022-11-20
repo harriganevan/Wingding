@@ -112,6 +112,16 @@ line 4 - "true" is not a valid boolean_literal. A valid boolean_literal starts w
 line 5 - "asdf" is not a valid identifier, causing an error. <br/>
 line 7 - "stoop" is not the valid stop keyword. Will be treated as an identifier but does not match that criteria, causing an error. <br/>
 
+code4.txt - syntax errors
+
+![code4Test](https://user-images.githubusercontent.com/54324630/202880343-55a5ab52-13b3-4a52-9f02-40667804c029.PNG)
+
+line 2 - No opening bracket on the if statement, causing an error. <br/>
+line 4 - Assigning "True" to a identifier. This is not allowed, causing an error. <br/>
+line 6 - Two valid identifiers next to eachother. Does not make sense in this language, causing an error. <br/>
+line 7 - Assigning the 'or' token to a identifier. This is not validm causing an error. <br/>
+line 7 - Missing semicolon, causing an error. <br/>
+
 # h. LR Trace
 
 ![trace2p1](https://user-images.githubusercontent.com/54324630/202878245-bec3c9bf-ff0e-4e5d-a292-d17508acd74c.PNG)
