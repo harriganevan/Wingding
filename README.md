@@ -13,7 +13,7 @@ Equal To: = <br/>
 Not Equal To: =/= <br/>
 Not: ! <br/>
 Assignment: <- <br/>
-Integer Literals: [1-9][0-9]*_(B|S|I|L) <br/>
+Integer Literals: [1-9][0-9]*\_(B|S|I|L) <br/>
 Identifiers: [a-zA-Z_][a-zA-Z_][a-zA-Z_][a-zA-Z_][a-zA-Z_][a-zA-Z_][a-zA-Z_]?[a-zA-Z_]? <br/>
 loop: O <br/>
 if: ? <br/>
