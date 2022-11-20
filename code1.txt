@@ -1,0 +1,15 @@
+start
+
+? ! 10_B = 10_B {
+	num variable ;
+	variable <- 123_L ;
+	O False {
+		num neverr ;
+		neverr <- 123_L ;
+	} ;
+} | {
+	num summary ;
+	summary <- variable + neverr ;
+} ;
+
+stop
