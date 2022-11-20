@@ -92,6 +92,8 @@ see code
 
 # g. Test Code
 
+see files in testCode folder
+
 # h. LR Trace
 
 ![trace2p1](https://user-images.githubusercontent.com/54324630/202878245-bec3c9bf-ff0e-4e5d-a292-d17508acd74c.PNG)
