@@ -1,0 +1,8 @@
+start
+	? True 
+		num number ;
+		number <- True ;
+	} ;
+	number numbers ;
+	numbers <- ||
+stop
