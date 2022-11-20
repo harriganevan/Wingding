@@ -1,0 +1,11 @@
+start
+num banana ;
+num turtle ;
+banana <- 12345_L ;
+turtle <- 54321_S ;
+num combine ;
+combine <- banana + turtle ;
+O banana =/= turtle {
+	banana <- banana + 1_S ;
+} ;
+stop
