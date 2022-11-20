@@ -124,7 +124,19 @@ line 7 - Missing semicolon, causing an error. <br/>
 
 # h. LR Trace
 
+LR trace for: <br/>
+### start ? bool_lit  { num id ; } ; stop 
+  
 ![trace2p1](https://user-images.githubusercontent.com/54324630/202878245-bec3c9bf-ff0e-4e5d-a292-d17508acd74c.PNG)
 ![trace2p2](https://user-images.githubusercontent.com/54324630/202878247-7062dadd-c30a-43d1-9f75-90856224a2d8.PNG)
 
-<img src="https://user-images.githubusercontent.com/54324630/202878245-bec3c9bf-ff0e-4e5d-a292-d17508acd74c.PNG" width="600" height="700">
+Accepted Trace (No Errors)
+
+### start num id ; id <- int_lit ; stop
+ 
+![trace1](https://user-images.githubusercontent.com/54324630/202880890-ed926367-6052-4bea-b00c-3ee1b762c410.PNG)
+
+Accepted Trace (No Errors)
+ 
+                         
+                        
