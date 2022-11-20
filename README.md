@@ -27,7 +27,7 @@ Data type declaration: num <br/>
 
 # b. Production Rules
 \<program> -> start \<stmt_list> stop <br/>
-\<stmt_list> -> \<stmt>';'{<stmt>';'} <br/>
+\<stmt_list> -> \<stmt>';'{\<stmt>';'} <br/>
 \<stmt> -> \<declare> | \<if> | \<loop> | \<assign> <br/>
 \<declare> -> 'num' 'id' \<br/>
 \<assign> -> 'id' '<-' \<expr> <br/>
